@@ -34,7 +34,7 @@
 
 
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyFackir&theme=dark)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AndreyFackir&theme=tokyonight)](https://git.io/streak-stats)
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreyFackir&theme=solarized_dark)
 
