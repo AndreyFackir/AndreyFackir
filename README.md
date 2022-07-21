@@ -15,7 +15,7 @@
  
  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a self-taught iOS Developer from Russia, Saint-Petersburg.
  - <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30"> I like to learn new things and impove my skills as a developer every day.  
- - <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="30"> How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](@andreyfackir)
+ - <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" width="30"> How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/andreyfackir)
  
  ---
 
